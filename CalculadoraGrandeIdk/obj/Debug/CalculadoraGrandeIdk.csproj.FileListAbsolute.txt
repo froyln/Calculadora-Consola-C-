@@ -1,0 +1,7 @@
+C:\Users\froyl\Desktop\CalculadoraGrandeIdk\CalculadoraGrandeIdk\bin\Debug\CalculadoraGrandeIdk.exe.config
+C:\Users\froyl\Desktop\CalculadoraGrandeIdk\CalculadoraGrandeIdk\bin\Debug\CalculadoraGrandeIdk.exe
+C:\Users\froyl\Desktop\CalculadoraGrandeIdk\CalculadoraGrandeIdk\bin\Debug\CalculadoraGrandeIdk.pdb
+C:\Users\froyl\Desktop\CalculadoraGrandeIdk\CalculadoraGrandeIdk\obj\Debug\CalculadoraGrandeIdk.csproj.AssemblyReference.cache
+C:\Users\froyl\Desktop\CalculadoraGrandeIdk\CalculadoraGrandeIdk\obj\Debug\CalculadoraGrandeIdk.csproj.CoreCompileInputs.cache
+C:\Users\froyl\Desktop\CalculadoraGrandeIdk\CalculadoraGrandeIdk\obj\Debug\CalculadoraGrandeIdk.exe
+C:\Users\froyl\Desktop\CalculadoraGrandeIdk\CalculadoraGrandeIdk\obj\Debug\CalculadoraGrandeIdk.pdb
